@@ -1,0 +1,3 @@
+com/jcalderon/domainservice/DomainServiceApplication.class
+com/jcalderon/domainservice/configuration/KafkaConsumerConfig.class
+com/jcalderon/domaincrawler/domain/Domain.class
